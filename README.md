@@ -2,9 +2,5 @@
 
 Build a simple teachable machine using transfer learning with TensorFlow.js
 
-
-# Takeaways
-
-
-
+Mobilenet model in combination with KNN Classifier.
 
